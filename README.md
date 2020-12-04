@@ -3,8 +3,8 @@
  
 Group H Members:
 
-Raven Ashley Legaspi
-Neal Samuel Lerios
-Kimberly Lladones
-Selina Bernice Lo
-Jillian Carmel Lucido
+	Raven Ashley Legaspi
+	Neal Samuel Lerios
+	Kimberly Lladones
+	Selina Bernice Lo
+	Jillian Carmel Lucido
