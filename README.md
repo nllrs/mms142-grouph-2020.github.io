@@ -9,4 +9,4 @@ Group H Members:
 	Neal Samuel Lerios
 	Kimberly Lladones
 	Selina Bernice Lo
-	Jillian Carmel Lucido
+	Jilianne Carmel Lucido
