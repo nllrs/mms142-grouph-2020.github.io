@@ -10,3 +10,5 @@ Group H Members:
 	Kimberly Lladones
 	Selina Bernice Lo
 	Jilianne Carmel Lucido
+	
+Updates on website to be committed on mms142-draft branch before merged into main.
