@@ -7,17 +7,19 @@ font-size: 50px;
 }
 #headertitle:hover {
 font-family: 'Fredoka One', cursive;
-  color: #05386B;  
+  color: #05386B; 
   
 }
 
 #headercontainer { 
   background-color: #5CDB95;
-  padding: 20px 50px;
+  padding: 10px 30px;
 }
 #bodycontainer {
   font-family: 'Nunito', serif;
-  padding: 0px 50px; 
+  padding: 0px 50px;
+  padding-bottom: 30px;
+  text-align: justify;
 }
 
 #buttoncss {
@@ -28,10 +30,31 @@ font-family: 'Fredoka One', cursive;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 15px;
 }
 #buttoncss:hover {
   font-family: 'Fredoka One', cursive;
   background-color: #05386B;
   color: white;
+}
+#bodyheader {
+  font-family: 'Fredoka One', cursive;
+  color: #EDF5E1;
+  -webkit-text-stroke: 1px #05386B;
+}
+#bottomfooter {
+  position: fixed;
+  width: 100%;
+  height: 50px;
+  background-color: #05386B;
+  color: white;
+  font-family: 'Nunito', serif;
+  text-align: center;
+  bottom: 0;
+  opacity: 0.3;
+  
+}
+
+#bottomfooter:hover {
+  opacity: 1;
 }
