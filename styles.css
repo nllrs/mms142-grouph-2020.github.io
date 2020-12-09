@@ -54,7 +54,9 @@ font-family: 'Fredoka One', cursive;
   opacity: 0.3;
   
 }
-
+#referencediv {
+text-align: left;
+}
 #bottomfooter:hover {
   opacity: 1;
 }
