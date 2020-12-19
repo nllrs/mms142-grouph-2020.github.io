@@ -3,21 +3,17 @@
   font-family: 'Fredoka One', cursive;
   color: #EDF5E1;
 font-size: 50px;
-  -webkit-text-stroke: 1px #05386B;
-}
-#headertitle:hover {
-font-family: 'Fredoka One', cursive;
-  color: #05386B; 
-  
+  -webkit-text-stroke: 0.2px #05386B;
 }
 
 #headercontainer { 
   background-color: #5CDB95;
   padding: 10px 30px;
+width: 100%;
 }
 #bodycontainer {
   font-family: 'Nunito', serif;
-  padding: 0px 50px;
+  padding: 0px;
   padding-bottom: 30px;
   text-align: justify;
 }
@@ -26,11 +22,12 @@ font-family: 'Fredoka One', cursive;
   font-family: 'Fredoka One', cursive;
   background-color: #8EE4AF;
   color: #05386B;
-  padding: 15px 30px;
+  padding: 10px 30px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 15px;
+  border-radius: 5px;
 }
 #buttoncss:hover {
   font-family: 'Fredoka One', cursive;
@@ -40,7 +37,7 @@ font-family: 'Fredoka One', cursive;
 #bodyheader {
   font-family: 'Fredoka One', cursive;
   color: #EDF5E1;
-  -webkit-text-stroke: 1px #05386B;
+  -webkit-text-stroke: 0.2px #05386B;
 }
 #bottomfooter {
   position: fixed;
@@ -52,7 +49,6 @@ font-family: 'Fredoka One', cursive;
   text-align: center;
   bottom: 0;
   opacity: 0.3;
-  margin: 0 auto -142px;
   
 }
 #referencediv {
@@ -73,4 +69,3 @@ text-align: center;
 #vidcss{
   height: 140px;
 }
-
