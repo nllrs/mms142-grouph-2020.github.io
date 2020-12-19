@@ -1,0 +1,22 @@
+3D printing is the process of making an object layer by layer based on a Computer Aided Design (CAD). 
+Its unique process of manufacturing objects layer by layer at most in millimeter scale is believed to be an innovation from traditional manufacturing process. It reduces material waste, expensive tools and machinery, and manual labor.
+
+Because of the different plausible materials, there is no “one size fits all” process for 3D printing. Some printers use heat or light sources to fuse, melt, or solidify layers of materials into a solid form.
+Behind the scenes of 3D printing is the designing and converting process which are often time consuming and complicated, especially if making a custom design. 
+Some finished products from printing also still require sanding, polishing, or trimmings which still uses manual skill and labor. 
+
+Different types of 3D printing:
+
+•	Stereolithography (SLA) - SLA is the original industrial 3D printing process. SLA printers excels at producing parts with high levels of detail and smooth surface finishes. It’s widely used in the medical industry for anatomical models and microfluidics.
+•	Selective Laser Sintering (SLS) - SLS melts together nylon-based powders into solid plastic. Since SLS parts are made from real thermoplastic material, they are durable, suitable for functional testing, and can support living hinges and snap-fits.
+•	Fused Deposition Modeling (FDM) - FDM is a common desktop 3D printing technology for plastic parts. An FDM printer functions by extruding a plastic filament layer-by-layer onto the build platform. It is the quickest and most cost-effective method for 3D printing.
+•	Digital Light Process (DLP) - DLP is similar to SLA in that it cures liquid resin using light. The main difference between the two is that DLP uses a digital light projector screen whereas SLA uses a UV laser. This means DLP 3D printers can image an entire layer of the build all at once, resulting in faster build speeds.
+•	Multi Jet Fusion (MJF) - MJF also builds functional parts from nylon powder but rather than using a laser to sinter the powder, MJF uses an inkjet array to apply fusing agents to the bed of nylon powder. Then a heating element passes over the bed to fuse each layer. Compared to SLS, it has more consistent mechanical properties and smoother finished surface.
+•	PolyJet - PolyJet is another plastic 3D printing process, but it can fabricate parts with multiple properties such as colors and materials. 
+•	Direct Metal Laser Sintering (DMLS) - It is often used to reduce metal, multi-part assemblies into a single component or lightweight parts with internal channels or hollowed out features. DMLS is viable for both prototyping and production since parts are as dense as those produced with traditional metal manufacturing methods like machining or casting.
+•	Electron Beam Melting (EBM) - EBM is another metal 3D printing technology that uses an electron beam that's controlled by electromagnetic coils to melt the metal powder. The printing bed is heated up and in vacuum conditions during the build. The temperature that the material is heated to varies depending on the material used.
+
+
+Sources:
+https://3dprintingindustry.com/3d-printing-basics-free-beginners-guide#04-processes
+https://www.protolabs.com/resources/blog/types-of-3d-printing/
