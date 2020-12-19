@@ -1,0 +1,74 @@
+body{
+ overflow-x: hidden;     
+}
+#headertitle { 
+      text-align: center;
+  font-family: 'Fredoka One', cursive;
+  color: #EDF5E1;
+font-size: 50px;
+  -webkit-text-stroke: 0.2px #05386B;
+}
+
+#headercontainer { 
+  background-color: #5CDB95;
+  padding: 10px 30px;
+width: 100%;
+}
+#bodycontainer {
+  font-family: 'Nunito', serif;
+  padding: 0px;
+  padding-bottom: 30px;
+  text-align: justify;
+}
+
+#buttoncss {
+  font-family: 'Fredoka One', cursive;
+  background-color: #8EE4AF;
+  color: #05386B;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 5px;
+}
+#buttoncss:hover {
+  font-family: 'Fredoka One', cursive;
+  background-color: #05386B;
+  color: white;
+}
+#bodyheader {
+  font-family: 'Fredoka One', cursive;
+  color: #EDF5E1;
+  -webkit-text-stroke: 0.2px #05386B;
+}
+#bottomfooter {
+  position: fixed;
+  width: 100%;
+  height: 50px;
+  background-color: #05386B;
+  color: white;
+  font-family: 'Nunito', serif;
+  text-align: center;
+  bottom: 0;
+  opacity: 0.3;
+  
+}
+#referencediv {
+text-align: left;
+}
+#bottomfooter:hover {
+  opacity: 1;
+}
+#mediadiv{
+text-align: center;
+}
+#imgcss{
+  height: 140px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#vidcss{
+  height: 140px;
+}
