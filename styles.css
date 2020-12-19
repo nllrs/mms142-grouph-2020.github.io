@@ -1,3 +1,6 @@
+body{
+ overflow-x: hidden;     
+}
 #headertitle { 
       text-align: center;
   font-family: 'Fredoka One', cursive;
